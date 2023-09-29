@@ -1,6 +1,6 @@
 ##### Welcome to Unbore pet project by Nick Bozhok! #####
 _This Android Application works on The Bored API.   
-The API generates a random activity you can do and the app serves this as a fresh idea for the user.  
+The API generates a random activity you can do now and the app serves this as a fresh idea for you.  
 — Endless ideas generation  
 — Categories_  
 
